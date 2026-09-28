@@ -197,7 +197,7 @@ curl -fsSL https://raw.githubusercontent.com/iOfficeAI/OfficeCLI/main/install.sh
 npm install -g @officecli/officecli  
 ```
 
-**Путь по умолчанию:** `/home/r006041/.local/bin/officecli`  
+**Путь по умолчанию:** `~/.local/bin/officecli`  
    
 **Проверка:**
 
