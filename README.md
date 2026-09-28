@@ -13,15 +13,15 @@
 - **AI-режим** — перевод любых XLSX с сохранением исходного форматирования, графики, shapes и стрелочек.  
   Система включает веб-интерфейс, редактор глоссария, редактор маппинга с собственным XLSX-вьювером, журнал аудита и FTP-доступ к результатам.
 
-  ![main.png](.attachments.826822/main.png)
+  ![main.png](docs/main.png)
 
                                            <Общий вид вкладки «Переводчик»>
 
-  ![main_ai.png](.attachments.826822/main_ai.png)
+  ![main_ai.png](docs/main_ai.png)
 
                       <Общий вид вкладки «Переводчик» с выбранным AI-режимом>
 
-![compare_docs.png](.attachments.826822/compare_docs.png)
+![compare_docs.png](docs/compare_docs.png)
 
 ---
 
@@ -71,7 +71,7 @@
 - Использование нескольких системных + пользовательских глоссариев  
    
 
-  ![glossary (2).png](.attachments.826822/glossary%20%282%29.png)
+  ![glossary (2).png](docs/glossary.png)
 
         <Вкладка «Редактор глоссария» с загруженным глоссарием и полем поиска>  
    
@@ -88,7 +88,7 @@
 - Создание маппинга через LLM по описаниям структур  
    
 
-  ![XLSX_Viewer and structure analysis.png](.attachments.826822/XLSX_Viewer%20and%20structure%20analysis.png)
+  ![XLSX_Viewer and structure analysis.png](docs/XLSX_Viewer%20and%20structure%20analysis.png)
 
     <Вкладка «Редактор маппинга» с XLSXViewer и анализом структуры>  
    
@@ -102,7 +102,7 @@
 - Скачивание лога выполнения каждой задачи  
    
 
-  ![audit-page.png](.attachments.826822/audit-page.png)
+  ![audit-page.png](docs/audit-page.png)
 
                                <Страница /audit-page с таблицей событий -->
 
